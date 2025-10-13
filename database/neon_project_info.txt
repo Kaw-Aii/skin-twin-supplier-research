@@ -1,0 +1,19 @@
+Neon Project Information
+========================
+
+Project Name: skin-twin-supplier-research
+Project ID: autumn-frost-87729023
+Organization: d@rzo.io (org-ancient-king-13782880)
+
+Branch Name: main
+Branch ID: br-weathered-salad-afyeyvg9
+
+Database: neondb
+Role: neondb_owner
+
+Connection String:
+postgresql://neondb_owner:npg_3GjoRx2gnEdh@ep-rough-darkness-afs6nyfv-pooler.c-2.us-west-2.aws.neon.tech/neondb?channel_binding=require&sslmode=require
+
+Created: 2025-10-13
+Purpose: SKIN-TWIN Supplier Research Hypergraph Database
+
